@@ -6,7 +6,7 @@ Beim Spiel-Timer handelt es sich um einen Timer, der eine festgelegte Zeit nach 
 
 ## Aufbau
 
-<img src=https://github.com/MakeYourSchool/Spiel-Timer/blob/main/Abbildung/Spiel-Timer.png?raw=true width=600px>
+<img src=https://github.com/MakeYourSchool/Spiel-Timer/blob/main/Abbildung/Spiel-Timer.jpg?raw=true width=600px>
 
 Bildquelle: *Wissenschaft im Dialog*
 
