@@ -1,4 +1,4 @@
-#Spiel-Timer
+# Spiel-Timer
 ----
 Hier ist der Beispiel-Code für den Spiel-Timer, der in der Einführung zu den Remote Hackdays zusammen mit den SchülerInnen aufgebaut wird.
 
