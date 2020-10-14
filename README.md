@@ -1,4 +1,4 @@
-Spiel-Timer
+#Spiel-Timer
 ----
 Hier ist der Beispiel-Code für den Spiel-Timer, der in der Einführung zu den Remote Hackdays zusammen mit den SchülerInnen aufgebaut wird.
 
@@ -6,13 +6,11 @@ Beim Spiel-Timer handelt es sich um einen Timer, der eine festgelegte Zeit nach 
 
 ## Aufbau
 
-<img src=https://www.makeyourschool.de/wp-content/uploads/2018/10/8_feinstaubsensor-1024x1024.jpg width=400px>
+<img src=https://github.com/MakeYourSchool/Spiel-Timer/blob/main/Abbildung/Spiel-Timer.png?raw=true width=600px>
 
 Bildquelle: *Wissenschaft im Dialog*
 
 ## Code
-
-Der Code für den Timer kann hier herauskopiert werden
 
 ```
 //Kommentare und Kopfzeile
